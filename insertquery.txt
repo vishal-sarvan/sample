@@ -1,0 +1,1 @@
+INSERT INTO user_info (Designation,Email_id,Password,User_Name) values ("","","","");
